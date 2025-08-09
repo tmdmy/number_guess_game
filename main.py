@@ -15,4 +15,4 @@ while guess != number:
             print("かなり近い！")
     else:
         print("正解！")
-
+# これはテストです
